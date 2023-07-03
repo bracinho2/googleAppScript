@@ -1,6 +1,6 @@
 function doPost(request) {
   // Open Google Sheet using ID
-  var sheet = SpreadsheetApp.openById("18zixbjbJl8wOB_lCbZWWPHLxuQyKE4TebkgODHaiF1k");
+  var sheet = SpreadsheetApp.openById("");
 
   try {
 
