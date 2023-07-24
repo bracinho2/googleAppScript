@@ -1,0 +1,13 @@
+{
+    "sheet": "repeaters",
+    "data": [
+      {
+        "callsign": "1",
+        "tx": "145000"
+      },
+      {
+        "callsign": "2",
+        "tx": "145000"
+      }
+    ]
+  }
