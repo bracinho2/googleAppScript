@@ -4,7 +4,7 @@ function doPost(request) {
 
     var json = JSON.parse(request.postData.contents);
 
-    if (json.password != 'sulina') {
+    if (json.password != 'abc') {
 
         result = { "status": "FAILED", "message": "Unauthorized" };
 
